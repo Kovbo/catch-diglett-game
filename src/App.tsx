@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import "./App.css";
 import emptyHole from "../src/assets/img1.png";
 import nonEmptyHole from "../src/assets/img3.png";
 
